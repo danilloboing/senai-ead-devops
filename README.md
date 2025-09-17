@@ -48,10 +48,3 @@ O deploy é feito automaticamente via GitHub Actions quando há push para a bran
 ├── .gitignore                  # Arquivos ignorados pelo Git
 └── README.md                   # Este arquivo
 ```
-
-## 🔧 Configuração do GitHub Pages
-
-1. Vá para as configurações do repositório
-2. Navegue até "Pages" no menu lateral
-3. Selecione "GitHub Actions" como fonte
-4. O workflow será executado automaticamente a cada push na branch main
